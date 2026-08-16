@@ -103,7 +103,8 @@ To the extent that copyright or related rights exist, this collection is made av
 
 ## 関連記事
 
-Zenn記事の公開後にリンクを追加します。
+Zenn：
+[AIは3Dをどこまで作れるのか — 2.5Dと高度な3D Geometryの間にある壁](https://zenn.dev/0xliclog/articles/5fc37207df95a9)
 
 ---
 
