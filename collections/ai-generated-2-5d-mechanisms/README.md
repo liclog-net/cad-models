@@ -92,7 +92,14 @@ Autodesk Fusionのネイティブデータです。コンポーネント、ス�
 - 機構の動作、干渉、強度、公差、バックラッシ、製造可能性は検証していません。
 - 歯車形状は標準的なインボリュート歯形を厳密に再現していない場合があります。
 - スケッチには未拘束または拘束不足のものが含まれます。
-- 実際の製品設計や製造には使用しないでください。
+- 実際の製品設計や製造への使用を想定したデータではありません。
+
+## ライセンス / License
+
+このコレクションは、権利が存在する範囲において
+[CC0 1.0 Universal](./LICENSE) のもとで公開しています。
+
+To the extent that copyright or related rights exist, this collection is made available under [CC0 1.0 Universal](./LICENSE).
 
 ## 関連記事
 
