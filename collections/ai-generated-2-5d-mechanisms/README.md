@@ -24,9 +24,9 @@ Autodesk Fusionを操作するAIエージェントが生成した、4種類の�
 
 完成形は複雑に見えますが、円筒形状や板状形状をスケッチと押し出しで作成し、それらを組み合わせることで構築されています。
 
-- Fusion Viewer：準備中
-- F3D：準備中
-- STEP：準備中
+- Fusion Viewer：[ブラウザで3Dモデルを見る](https://a360.co/4qhLR25)
+- F3D：[Fusionデータをダウンロード](./models/four-cylinder-crank/FourCylinderCrankMechanism_2_5D_AI_Model.f3d?raw=1)
+- STEP：[STEPデータをダウンロード](./models/four-cylinder-crank/FourCylinderCrankMechanism_2_5D_AI_Model.step?raw=1)
 
 ---
 
@@ -38,9 +38,9 @@ Autodesk Fusionを操作するAIエージェントが生成した、4種類の�
 
 多数の部品から構成されていますが、形状生成の中心はスケッチと押し出しです。
 
-- Fusion Viewer：準備中
-- F3D：準備中
-- STEP：準備中
+- Fusion Viewer：[ブラウザで3Dモデルを見る](https://a360.co/3U3FDXo)
+- F3D：[Fusionデータをダウンロード](./models/dual-stage-geneva/DualStageGenevaIndexingMechanism_2_5D_AI_Model.f3d?raw=1)
+- STEP：[STEPデータをダウンロード](./models/dual-stage-geneva/DualStageGenevaIndexingMechanism_2_5D_AI_Model.step?raw=1)
 
 ---
 
@@ -52,9 +52,9 @@ Autodesk Fusionを操作するAIエージェントが生成した、4種類の�
 
 複数の基準平面に2D輪郭を作成し、それぞれを押し出すことで、立体的な装置全体を構築しています。
 
-- Fusion Viewer：準備中
-- F3D：準備中
-- STEP：準備中
+- Fusion Viewer：[ブラウザで3Dモデルを見る](https://a360.co/4zhBbEJ)
+- F3D：[Fusionデータをダウンロード](./models/twin-lobe-roots/TwinLobeRootsMechanism_2_5D_AI_Model.f3d?raw=1)
+- STEP：[STEPデータをダウンロード](./models/twin-lobe-roots/TwinLobeRootsMechanism_2_5D_AI_Model.step?raw=1)
 
 ---
 
@@ -66,15 +66,17 @@ Autodesk Fusionを操作するAIエージェントが生成した、4種類の�
 
 同心円状に配置された多数の部品によって精密な装置に見えますが、各歯車や支持部品は主に2D輪郭の押し出しで作成されています。
 
-- Fusion Viewer：準備中
-- F3D：準備中
-- STEP：準備中
+- Fusion Viewer：[ブラウザで3Dモデルを見る](https://a360.co/4gymYvv)
+- F3D：[Fusionデータをダウンロード](./models/dual-stage-planetary/DualStagePlanetaryGearbox_2_5D_AI_Model.f3d?raw=1)
+- STEP：[STEPデータをダウンロード](./models/dual-stage-planetary/DualStagePlanetaryGearbox_2_5D_AI_Model.step?raw=1)
 
 ## データ形式
 
 ### Fusion Viewer
 
-ブラウザ上でモデルを回転・拡大し、部品構成や断面を確認するための閲覧用リンクです。
+Fusionや専用ビューアをインストールせず、ブラウザ上でモデルを回転・拡大し、部品構成や断面を確認できます。
+
+共有リンクは閲覧用です。閲覧者が公開元のFusionデータを直接変更することはできません。
 
 ### F3D
 
