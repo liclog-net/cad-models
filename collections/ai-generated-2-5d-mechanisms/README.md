@@ -38,7 +38,7 @@ Autodesk Fusionを操作するAIエージェントが生成した、4種類の�
 
 多数の部品から構成されていますが、形状生成の中心はスケッチと押し出しです。
 
-- Fusion Viewer：[ブラウザで3Dモデルを見る](https://a360.co/3U3FDXo)
+- Fusion Viewer：[ブラウザで3Dモデルを見る](https://a360.co/4cLKRNV)
 - F3D：[Fusionデータをダウンロード](https://raw.githubusercontent.com/liclog-net/cad-models/main/collections/ai-generated-2-5d-mechanisms/models/dual-stage-geneva/DualStageGenevaIndexingMechanism_2_5D_AI_Model.f3d)
 - STEP：[STEPデータをダウンロード](https://raw.githubusercontent.com/liclog-net/cad-models/main/collections/ai-generated-2-5d-mechanisms/models/dual-stage-geneva/DualStageGenevaIndexingMechanism_2_5D_AI_Model.step)
 
